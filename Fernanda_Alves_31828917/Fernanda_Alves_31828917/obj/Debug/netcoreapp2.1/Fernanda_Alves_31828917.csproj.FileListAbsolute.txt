@@ -1,0 +1,11 @@
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\bin\Debug\netcoreapp2.1\Fernanda_Alves_31828917.deps.json
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\bin\Debug\netcoreapp2.1\Fernanda_Alves_31828917.runtimeconfig.json
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\bin\Debug\netcoreapp2.1\Fernanda_Alves_31828917.runtimeconfig.dev.json
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\bin\Debug\netcoreapp2.1\Fernanda_Alves_31828917.dll
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\bin\Debug\netcoreapp2.1\Fernanda_Alves_31828917.pdb
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\obj\Debug\netcoreapp2.1\Fernanda_Alves_31828917.csprojAssemblyReference.cache
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\obj\Debug\netcoreapp2.1\Fernanda_Alves_31828917.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\obj\Debug\netcoreapp2.1\Fernanda_Alves_31828917.AssemblyInfoInputs.cache
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\obj\Debug\netcoreapp2.1\Fernanda_Alves_31828917.AssemblyInfo.cs
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\obj\Debug\netcoreapp2.1\Fernanda_Alves_31828917.dll
+C:\Users\Fernanda\source\repos\Fernanda_Alves_31828917\Fernanda_Alves_31828917\obj\Debug\netcoreapp2.1\Fernanda_Alves_31828917.pdb
